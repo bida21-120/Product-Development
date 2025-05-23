@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+hashlib
+joblib
+xgboost
+numpy
+
